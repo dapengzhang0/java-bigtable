@@ -220,6 +220,11 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+      <groupId>io.grpc</groupId>
+      <artifactId>grpc-rls</artifactId>
+      <version>1.36.0</version>
+    </dependency>
+    <dependency>
       <groupId>io.opencensus</groupId>
       <artifactId>opencensus-impl</artifactId>
       <scope>test</scope>
